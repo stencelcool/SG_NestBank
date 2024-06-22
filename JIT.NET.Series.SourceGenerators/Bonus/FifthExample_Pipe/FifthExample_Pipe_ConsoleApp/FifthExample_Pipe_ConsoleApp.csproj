@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<AdditionalFiles Include="File1.txt"/>
+		<AdditionalFiles Include="File2.txt"/>
+	</ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FifthExample_Pipe_SourceGenerator\FifthExample_Pipe_SourceGenerator.csproj" OutputItemType="Analyzer" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\bin\Debug\netstandard2.0\ThirdExample_SourceGenerator.deps.json
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\bin\Debug\netstandard2.0\ThirdExample_SourceGenerator.dll
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\bin\Debug\netstandard2.0\ThirdExample_SourceGenerator.pdb
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.csproj.AssemblyReference.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.AssemblyInfoInputs.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.AssemblyInfo.cs
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.dll
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.pdb
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\bin\Debug\netstandard2.0\ThirdExample_SourceGenerator.deps.json
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\bin\Debug\netstandard2.0\ThirdExample_SourceGenerator.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\bin\Debug\netstandard2.0\ThirdExample_SourceGenerator.pdb
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.csproj.AssemblyReference.cache
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.AssemblyInfoInputs.cache
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.AssemblyInfo.cs
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.sourcelink.json
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_SourceGenerator\obj\Debug\netstandard2.0\ThirdExample_SourceGenerator.pdb

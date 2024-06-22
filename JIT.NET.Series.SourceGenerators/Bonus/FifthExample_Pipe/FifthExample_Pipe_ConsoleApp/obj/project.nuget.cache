@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJdNi+DyjvehMr8Vyz3+ukoBgbZmeWGx5MioBaxge9/gHLx95aOIHBjK8dcA2AweoyMAJQMRPbmg5QQaa1iqQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jstencel\\Repositories\\SourceGeneratorsExamples-main\\JIT.NET.Series.SourceGenerators\\Bonus\\FifthExample_Pipe\\FifthExample_Pipe_ConsoleApp\\FifthExample_Pipe_ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jstencel\\.nuget\\packages\\microsoft.codeanalysis.common\\4.1.0\\microsoft.codeanalysis.common.4.1.0.nupkg.sha512",
+    "C:\\Users\\jstencel\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.1.0\\microsoft.codeanalysis.csharp.4.1.0.nupkg.sha512",
+    "C:\\Users\\jstencel\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\jstencel\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\jstencel\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\jstencel\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\jstencel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\jstencel\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\jstencel\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

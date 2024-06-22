@@ -1,0 +1,30 @@
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.exe
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.deps.json
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.runtimeconfig.json
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.dll
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.pdb
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.csproj.AssemblyReference.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.AssemblyInfoInputs.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.AssemblyInfo.cs
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.csproj.CoreCompileInputs.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.dll
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\refint\ThirdExample_AttributeLookup.dll
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.pdb
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.genruntimeconfig.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ref\ThirdExample_AttributeLookup.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.exe
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.deps.json
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.runtimeconfig.json
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\bin\Debug\net6.0\ThirdExample_AttributeLookup.pdb
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.AssemblyInfoInputs.cache
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.AssemblyInfo.cs
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.csproj.CoreCompileInputs.cache
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.sourcelink.json
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\refint\ThirdExample_AttributeLookup.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.pdb
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ThirdExample_AttributeLookup.genruntimeconfig.cache
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\ThirdExample\ThirdExample_AttributeLookup\obj\Debug\net6.0\ref\ThirdExample_AttributeLookup.dll

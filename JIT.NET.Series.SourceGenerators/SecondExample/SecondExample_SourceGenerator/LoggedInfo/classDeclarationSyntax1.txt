@@ -1,0 +1,7 @@
+
+public class Car : Vehicle
+{
+    public string? Model { get; set; }
+
+    public Car(string name) : base(name) { }
+}

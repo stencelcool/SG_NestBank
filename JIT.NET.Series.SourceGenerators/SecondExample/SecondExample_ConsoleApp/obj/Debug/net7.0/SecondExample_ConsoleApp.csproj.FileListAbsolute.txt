@@ -1,0 +1,30 @@
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.exe
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.deps.json
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.runtimeconfig.json
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.dll
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.pdb
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.AssemblyInfo.cs
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.dll
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\refint\SecondExample_ConsoleApp.dll
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.pdb
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.genruntimeconfig.cache
+C:\Users\Kuba Stencel\source\repos\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\ref\SecondExample_ConsoleApp.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.AssemblyInfo.cs
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.sourcelink.json
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.exe
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.deps.json
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.runtimeconfig.json
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\bin\Debug\net7.0\SecondExample_ConsoleApp.pdb
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\refint\SecondExample_ConsoleApp.dll
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.pdb
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\SecondExample_ConsoleApp.genruntimeconfig.cache
+C:\Users\jstencel\Repositories\SourceGeneratorsExamples-main\JIT.NET.Series.SourceGenerators\SecondExample\SecondExample_ConsoleApp\obj\Debug\net7.0\ref\SecondExample_ConsoleApp.dll
